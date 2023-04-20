@@ -14,5 +14,5 @@ print (len(fruits)) #will give the length of list
 fruits.insert(0, 'litchi')
 print(fruits)
 
-fruits.reverse()
+fruits.reverse() #takes no args, will reverse the list
 print(fruits)
